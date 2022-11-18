@@ -15,9 +15,7 @@ I like to do project that has relation to anime. :ghost:
 - [WhoisBot](https://t.me/WhoisBot)
 - [Moe API](https://beta.moe.team)
 - etc.
-
-![Moepoi's github stats](https://github-readme-stats.vercel.app/api?username=moepoi&show_icons=true)
-
+ 
 <details>
 <summary>:zap: Recent Github Activity</summary>
 
